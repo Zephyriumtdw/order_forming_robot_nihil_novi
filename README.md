@@ -1,1 +1,1 @@
-# potential-mos-proj
+# potential-mos-project
